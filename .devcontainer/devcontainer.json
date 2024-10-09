@@ -1,6 +1,6 @@
 {
     "name": ".NET 8",
-    "image": "mcr.microsoft.com/dotnet/sdk:8.0",
+    "image": "mcr.microsoft.com/dotnet/sdk:9.0",
     "features": {
         "ghcr.io/devcontainers/features/powershell:1": {
             "version": "latest"
